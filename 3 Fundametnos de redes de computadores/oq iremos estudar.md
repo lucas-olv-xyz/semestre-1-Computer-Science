@@ -1,0 +1,6 @@
+- redes de computadores e internet
+- modelo de referencia de OSI e arquitetura TCP/IP
+- camadas de aplicaçao e transporte
+- camada de rede
+- camada de enlace e fisica
+- fundamentos de administração e segurança em rede de computadores

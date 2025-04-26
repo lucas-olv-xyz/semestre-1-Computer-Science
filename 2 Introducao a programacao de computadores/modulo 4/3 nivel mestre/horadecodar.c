@@ -1,0 +1,1 @@
+//aqui ele fica reforçando o uso de #define ao inves de const

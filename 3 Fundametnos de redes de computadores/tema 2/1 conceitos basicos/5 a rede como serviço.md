@@ -1,0 +1,1 @@
+API socket: a tal da porta 80 por exemplo, é o numero do socket
